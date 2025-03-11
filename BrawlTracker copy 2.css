@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+body {
+  background-color: gold;
+}
+h1 {
+  background-color: rgb(226, 186, 4);
+  text-align: center;
+  padding: 10px; /* Add padding to create space around the text */
+  border-radius: 10px; /* Add border-radius to round the edges */
+  outline: 10px solid black;
+  font-family: "Emblema One", system-ui;
+  font-size: 60px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Emblema+One&display=swap");
+
+h2 {
+  font-family: "Sigmar", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  font-family: "Lilita One", sans-serif;
+  background-color: rgb(230, 196, 4);
+  background-size: 75px;
+  padding: 13px; /* Add padding to create space around the text */
+  border-radius: 13px; /* Add border-radius to round the edges */
+  max-width: 600px; /* Set a maximum width */
+  margin: 0 auto; /* Center the element */
+  outline: 15px solid rgb(0, 0, 0);
+}
+h3 {
+  background-color: rgb(255, 179, 0);
+  font-family: "Sigmar", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  font-family: "Lilita One", sans-serif;
+  background-color: rgb(230, 196, 4);
+  background-size: 75px;
+  padding: 13px; /* Add padding to create space around the text */
+  border-radius: 13px; /* Add border-radius to round the edges */
+  max-width: 350px; /* Set a maximum width */
+  margin: 0 auto; /* Center the element */
+  outline-style: ridge;
+  outline: 4.5px solid black
+  
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+
+  
+
